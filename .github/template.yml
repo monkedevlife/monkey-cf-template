@@ -1,0 +1,16 @@
+name: 'OpenNext + Cloudflare Template'
+description: 'A modern full-stack template with OpenNext, Cloudflare Workers, tRPC, ShadCN, Drizzle ORM, PostgreSQL, and BetterAuth'
+labels:
+  - nextjs
+  - opennext
+  - cloudflare
+  - workers
+  - trpc
+  - drizzle
+  - postgresql
+  - better-auth
+  - shadcn
+  - tailwindcss
+  - full-stack
+  - template
+includeAllBranches: false
